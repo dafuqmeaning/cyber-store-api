@@ -1,0 +1,10 @@
+.tmp/
+.venv/
+.hf/
+pydeps/
+runtime_deps/
+__pycache__/
+*.pyc
+backend/.env
+backend/data/
+data/
